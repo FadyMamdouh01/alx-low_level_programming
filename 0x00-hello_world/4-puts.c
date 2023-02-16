@@ -1,0 +1,13 @@
+#include <stdio.h>
+/**
+ * main - A Programming is like building a multilingual puzzle
+ n
+ * Return: 0 (Success)
+ */
+
+int main(viod)
+{
+puts("\"Programming is like building a multilingual puzzle");
+
+return (0);
+}
